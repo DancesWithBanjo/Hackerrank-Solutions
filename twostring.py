@@ -1,4 +1,3 @@
-/*
 # Check to see if a substring exists between the two strings
 # Substring can be a single character
 # ---
