@@ -1,10 +1,10 @@
 # Checks a 2d array for the greatest "hourglass"
-# an hourglass is the following selection in 2d array
-# 
-#    a b c
-#      d
-#    e f g
+# an hourglass is the sum of the following selection in 2d array
+# Example:
 #
+#    a b c      1 2 3        
+#      d          4    --> 28              
+#    e f g      5 6 7
 
 def hourglassSum(arr):
     max_sum = 0
